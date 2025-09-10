@@ -1,0 +1,13 @@
+td[id="pos"]    {
+    background-color: aqua;
+}
+td[id="pos2"]    {
+    background-color:brown;
+}
+body    {
+    background-color: goldenrod;
+}
+table    {
+    background-color:gray;
+    border:7px solid rebeccapurple;
+}
